@@ -1,0 +1,22 @@
+product_name,product_category,is_customizable,base_price,product_id
+Cupcakes - Chocolate,Cupcakes,True,300,1
+Custom Cake,Cake,True,1000,2
+Banana Bread,Bread,False,250,3
+Bun Bread,Bread,False,200,4
+Chocolate Chip Cookies (12),Cookies,False,180,5
+Chocolate Chip Cookies (25),Cookies,False,240,6
+Almond Cookies (15),Cookies,False,200,7
+Wheat Bread,Bread,False,70,8
+Milk Bread,Bread,False,50,9
+Fruity Bread,Bread,False,80,10
+Raspberry Jam 250g,Jam,False,350,11
+Mango Jam 250g,Jam,False,150,12
+Peanut Nutella 250g,Spread,False,220,13
+Walnut Nutella 250g,Spread,False,270,14
+Croissant - Chocolate,Croissant,True,230,15
+Croissant - Vanilla,Croissant,True,150,16
+Croissant - Blueberry,Croissant,True,225,17
+Chocolate Dip Cookies,Cookies,False,290,18
+Almond Chocolates,Chocolate,False,400,19
+Chocolate Bites,Chocolate,False,360,20
+Milk Chocolates,Chocolate,False,200,21
